@@ -1,0 +1,7 @@
+1. When using Moose's services, like AppLauncher, gameOS and pcOS you cannot copy our code and make it your own without permission from Moose.
+2. Moose doesn't share your data with anyone else. Your data is stored locally on your computer.
+3. You agree that Moose's services, like AppLauncher, gameOS and pcOS can connect to the internet to complete certain tasks that will improve your experience with the software.
+4. You agree that Moose doesn't have to provide updates to it's software and software can be discontinued without notice at any point.
+5. You agree that Moose will not be held responsible if Moose's software causes any data loss, corruption and more.
+
+The TOS can change at any moment and we will try to alert you if this happens via Message Boards, HOME Screen and more.
