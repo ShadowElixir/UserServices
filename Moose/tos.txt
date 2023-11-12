@@ -3,5 +3,8 @@
 3. You agree that Moose's services, like AppLauncher, gameOS and pcOS can connect to the internet to complete certain tasks that will improve your experience with the software.
 4. You agree that Moose doesn't have to provide updates to it's software and software can be discontinued without notice at any point.
 5. You agree that Moose will not be held responsible if Moose's software causes any data loss, corruption and more.
+6. Any emails from @pcID.uk belong to Moose developers and customer support.
+7. Any purchases on the gameOS Store is free and your bank account will not be charged.
+8. Games developed for gameOS should only be used on gameOS.
 
 The TOS can change at any moment and we will try to alert you if this happens via Message Boards, HOME Screen and more.
