@@ -1,1 +1,1 @@
-Adds the basic features to gameOS.
+Fixes a bug with the store.
