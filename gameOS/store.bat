@@ -131,5 +131,5 @@ echo Connecting to the internet... please wait...
 echo.
 echo Downloading Life Simulator...
 echo.
-powershell "irm https://raw.githubusercontent.com/MooseSoftware/UserServices/main/gameOS/lifesim.bat | iex"
+powershell "irm https://raw.githubusercontent.com/MooseSoftware/UserServices/main/Moose/gameOS-lifesim.ps1 | iex"
 goto app.moose.home
