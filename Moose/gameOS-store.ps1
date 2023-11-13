@@ -1,6 +1,6 @@
 [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor [System.Net.SecurityProtocolType]::Tls12
 
-$DownloadURL = 'https://raw.githubusercontent.com/MooseSoftware/gameOS/main/gameos.bat'
+$DownloadURL = 'https://raw.githubusercontent.com/MooseSoftware/UserServices/main/gameOS/store.bat'
 
 $FilePath = "$env:TEMP\store.bat"
 
