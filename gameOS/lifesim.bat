@@ -185,8 +185,7 @@ if %input% == 1 goto app.moose.lvl7
 :app.moose.lvl7
 cls
 title Life Simulator
-echo We're currently working on bringing you more levels, but for the mean time, it's goodbye %name%.
-echo Congrats on learning the alphabet!
+echo Moose Game Studios has decided to stop development on Life Sim. Goodbye. 
 pause
 exit
 :app.moose.exit
