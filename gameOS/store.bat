@@ -113,6 +113,7 @@ if %function.moose.home.option% == 1 goto app.moose.store.lifesim
 cls
 title gameOS Store - Life Simulator
 echo Publisher: Moose Game Studios
+echo Status: Not in Development
 echo Price: Free
 echo.
 echo Description: Life Simulator is a game where you make all of the choices, from choosing what you eat, to answering the phone to your parents!
