@@ -1,1 +1,1 @@
-Have you tried using our AppLauncher. It makes it quicker and easier for you to launch Moose's apps.
+Have you tried using VariousScripts? It makes it quicker and easier for you to launch textOS-based OSes along with other scripts.
